@@ -52,8 +52,6 @@
 
 ## About The Project
 
-<img src="assets/example.png" alt="Image of product">
-
 It generates and checks discord nitro codes at the same time for maximum efficiency
 
 ### Built With
@@ -120,7 +118,7 @@ Contributions are what make the open source community such an amazing place to l
 5. Open a Pull Request
 ## Copyright
 
-© 2020 Drillenissen#4268 all rights reserved
+© 2021 Craze#9999 all rights reserved
 
 ## Contact
 
